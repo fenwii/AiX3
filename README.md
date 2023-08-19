@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" src="https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/logo.png?site">
+  <img width="200" src="https://www.aiappstore.cloud/assets/images/logos/aix3.png">
   <h1>AiX3(人工智能X3网)🤖️</h1>
   <p>AiX3 (artificial intelligence X3 network), aggregating more than 2000 artificial intelligence platforms around the world, allows you to use the power of AI. AiX3(人工智能X3网),聚合全球2000多个人工智能平台，让你尽情使用Ai的力量。AiX3(人工智能X3网)汇聚全球AI力量，让处理图像，语言，音谱，视频，文本更快，更智能。</p>
   <p>
