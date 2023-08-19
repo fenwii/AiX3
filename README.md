@@ -1,22 +1,20 @@
-# AiX3(artificial intelligence X3 network)    AiX3(人工智能X3网)
-AiX3 (artificial intelligence X3 network), aggregating more than 760 artificial intelligence platforms around the world, allows you to use the power of AI. AiX3(人工智能X3网),聚合全球760多个人工智能平台，让你尽情使用Ai的力量。
-
-
-
-AiX3 (artificial intelligence X3 network) gathers the global AI power to make the processing of images, languages, audio spectrum, videos and texts faster and more intelligent.
-
-AiX3(人工智能X3网)汇聚全球AI力量，让处理图像，语言，音谱，视频，文本更快，更智能。
-
+<div align="center">
+  <img width="200" src="https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/logo.png?site">
+  <h1>AiX3(人工智能X3网)🤖️</h1>
+  <p>AiX3 (artificial intelligence X3 network), aggregating more than 2000 artificial intelligence platforms around the world, allows you to use the power of AI. AiX3(人工智能X3网),聚合全球2000多个人工智能平台，让你尽情使用Ai的力量。AiX3(人工智能X3网)汇聚全球AI力量，让处理图像，语言，音谱，视频，文本更快，更智能。</p>
+  <p>
+    <a href="https://github.com/fenwii/AiX3/releases"><img src="https://img.shields.io/github/v/release/fenwii/AiX3"></a>
+    <a href="https://github.com/fenwii/AiX3"><img src="https://img.shields.io/github/downloads/fenwii/AiX3/total"></a>
+    <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=2bbc8a"/>
+    <img alt="macOS" src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
+  <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
+  </p>
+</div>
 
 
 
 <p align="center">
 =================深度交流==================
-</p>
-
-<p align="center">
-      人生90%的机会来自于人脉和有效信息
-</p>
 
 <p align="center">
 ================分微矩阵社区================
@@ -37,7 +35,7 @@ AiX3(人工智能X3网)汇聚全球AI力量，让处理图像，语言，音谱�
 	
 	[分微技术社区]
 	头条，抖音： ChatGPT中国应用社区
-	ChatGPT应用实践知识星球：ChatGPT中国应用社区 https://t.zsxq.com/0af53ee8J
+	人工智能中国社区：人工智能中国社区 https://t.zsxq.com/0af53ee8J
 	编程技术交流知识星球：C语言C++汇编研究中心   https://t.zsxq.com/jeYVJuj
 	架构师知识星球：架构设计师之家 https://t.zsxq.com/0aWGqWZgQ
 	
